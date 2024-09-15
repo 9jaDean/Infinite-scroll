@@ -38,7 +38,7 @@ h1 {
 
 /* image container */
 .image-container {
-    margin: 10px 12%;
+    margin: 10px 30%;
 }
 
 .image-container img {
@@ -52,6 +52,6 @@ h1 {
         font-size: 22px;
     }
     .image-container {
-        margin: 10px 7%;
+        margin: 10px 15%;
     }
 }
